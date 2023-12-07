@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris, :fr:, soon to relecoate to :jp:.
+- 👋 Hi, I’m Chris, :fr:, soon to relocate to :jp:.
 - 👀 I’m interested in Software & Web Development, Architecture & Design, Motorsports.
 - 🌱 After learning on my own for a while, I’ve recently completed a bootcamp in Web Development at Le Wagon Tokyo. I am challenging my knowledge, and learning more through Codecademy.
 - 
