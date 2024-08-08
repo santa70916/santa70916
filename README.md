@@ -1,11 +1,11 @@
 <div align="center">
-  <h3>👋 Hi, I’m Chris, a Full-Stack Developer from France, about to relocate to Japan</h3>
+  <h3>👋 Hi, I’m Chris, a Full-Stack Developer from France, willing to relocate to Japan</h3>
   <h2>:fr: :jp: </h2>
 
   <p>
   You can find my portfolio at https://chrisbourgeonnier.me/</p>
-  <p>I’m interested in Software & Web Development, Architecture & Design, Motorsports.</p>
-  <p>After learning on my own for a while, I’ve recently completed a bootcamp in Web Development at Le Wagon Tokyo (Batch #1388).</p>
+  <p>I’m interested in Software & Web Development, Cybersecurity, and New Technologies. Architecture & Design, Motorsports are other topics I love.</p>
+  <p>After learning on my own for over a year, I’ve recently completed a bootcamp in Web Development at Le Wagon Tokyo (Batch #1388).</p>
    <p> Now I am challenging my knowledge, and learning more through Codecademy.
     </p>
     
