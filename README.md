@@ -1,6 +1,5 @@
 <div align="center">
-  <h3>👋 Hi, I’m Chris, a Full-Stack Developer from France, willing to relocate to Japan</h3>
-  <h2>:fr: :jp: </h2>
+  <h3>👋 Hi, I’m Chris, a Full-Stack Developer from France, living between Vietnam, Japan and Australia</h3>
 
   <p>
   You can find my portfolio at https://chrisbourgeonnier.me/</p>
