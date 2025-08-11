@@ -1,30 +1,14 @@
 <div align="center">
-  <h3>👋 Hi, I’m Chris, a Full-Stack Developer from France, living between Vietnam, Japan and Australia</h3>
+  <h3>👋 Hi, I’m Santa, a Full-Stack Developer from Japan</h3>
 
-  <p>
-  You can find my portfolio at https://chrisbourgeonnier.me/</p>
-  <p>I’m interested in Software & Web Development, Cybersecurity, and New Technologies. Architecture & Design, Motorsports are other topics I love.</p>
-  <p>After learning on my own for over a year, I’ve recently completed a bootcamp in Web Development at Le Wagon Tokyo (Batch #1388).</p>
-   <p> Now I am challenging my knowledge, and learning more through Codecademy.
-    </p>
-    
-  <h3>Connect with me:</h3>
-  <p>
-  I’m looking to collaborate on projects involving Ruby or Python</p>
-  <p>
-  <a href="https://linkedin.com/in/chrisbourgeonnier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>  
-    <a href="https://instagram.com/chrisbourgeonnier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  </p>
-  <p>
-  📫 You can find more ways to contact me with LinkTree:
-    </p>
-    <p>
-     https://linktr.ee/chrisbourgeonnier
-     </p>
-  
-  
-  
-  <h3>Languages and Tools:</h3>
+<p>I’m passionate about Web & Mobile App Development, Artificial Intelligence, and emerging technologies. I also enjoy exploring UI/UX design, automation, and problem-solving through code.</p>
+<p>After gaining hands-on experience through personal projects and freelance work, I have completed specialized training in Full-Stack Development and AI/ML applications.</p>
+<p>Currently, I’m enhancing my skills in React Native, Flutter, and Python-based AI frameworks like TensorFlow and PyTorch, while also exploring backend solutions with Node.js and Django.</p>
+<h3>Connect with me:</h3>
+<p>
+I’m looking to collaborate on projects involving cross-platform mobile solutions, AI-powered applications, or innovative web platforms.
+</p>
+<h3>Languages and Tools:</h3>
   <p>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
     <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
