@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>👋 Hi, I’m Yasuhiro, a Full-Stack Developer from Japan</h3>
+  <h3>👋 Hi, I’m Atoo, a blockchain developer from Japan</h3>
 
 <p>I’m passionate about Web & Mobile App Development, Artificial Intelligence, and emerging technologies. I also enjoy exploring UI/UX design, automation, and problem-solving through code.</p>
 <p>After gaining hands-on experience through personal projects and freelance work, I have completed specialized training in Full-Stack Development and AI/ML applications.</p>
