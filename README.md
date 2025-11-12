@@ -1,13 +1,8 @@
 <div align="center">
-  <h3>👋 Hi, I’m Atoo, a blockchain developer from Japan</h3>
+  <h1>👋 Hi, I’m Goal from Japan</h1>
 
-<p>I’m passionate about Web & Mobile App Development, Artificial Intelligence, and emerging technologies. I also enjoy exploring UI/UX design, automation, and problem-solving through code.</p>
-<p>After gaining hands-on experience through personal projects and freelance work, I have completed specialized training in Full-Stack Development and AI/ML applications.</p>
-<p>Currently, I’m enhancing my skills in React Native, Flutter, and Python-based AI frameworks like TensorFlow and PyTorch, while also exploring backend solutions with Node.js and Django.</p>
-<h3>Connect with me:</h3>
-<p>
-I’m looking to collaborate on projects involving cross-platform mobile solutions, AI-powered applications, or innovative web platforms.
-</p>
+<p>I am a full-stack blockchain developer with 7 years of experience.</p>
+<p>I specialize in smart contract development, decentralized applications, and NFT/GameFi platforms, integrating both frontend and backend systems with blockchain networks like Ethereum, Solana, Polygon, and Binance Smart Chain.</p>
 <h3>Languages and Tools:</h3>
   <p>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
