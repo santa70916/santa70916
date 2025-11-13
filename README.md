@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I’m Goal from Japan</h1>
+  <h1>👋 Hi, I’m Santa from Japan</h1>
 
 <p>I am a full-stack blockchain developer with 7 years of experience.</p>
 <p>I specialize in smart contract development, decentralized applications, and NFT/GameFi platforms, integrating both frontend and backend systems with blockchain networks like Ethereum, Solana, Polygon, and Binance Smart Chain.</p>
